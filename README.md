@@ -1,5 +1,5 @@
-<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersafari.com%2Fpixel-art-gif-wallpapers%2F&psig=AOvVaw3kIpnbqCugxCCWhEEZhrgd&ust=1764846931239000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjp3qWloZEDFQAAAAAdAAAAABAE<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/bf709356-dccb-4c00-bdc0-717f4a1c4e61" />
-'>
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersafari.com%2Fpixel-art-gif-wallpapers%2F&psig=AOvVaw3kIpnbqCugxCCWhEEZhrgd&ust=1764846931239000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjp3qWloZEDFQAAAAAdAAAAABAE<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/6de87d18-9d82-441a-9027-e8f199ad4e53" />
+
 ---
 
 ### 💻 My workspace eco-system 
