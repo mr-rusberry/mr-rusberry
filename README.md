@@ -1,10 +1,12 @@
+<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersafari.com%2Fpixel-art-gif-wallpapers%2F&psig=AOvVaw3kIpnbqCugxCCWhEEZhrgd&ust=1764846931239000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjp3qWloZEDFQAAAAAdAAAAABAE<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/bf709356-dccb-4c00-bdc0-717f4a1c4e61" />
+'>
 ---
 
 ### 💻 My workspace eco-system 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,kali,ubuntu,vim,vscode,github,py,django,html,postgres," />
+    <img src="https://skillicons.dev/icons?i=apple,kali,vscode,github," />
   </a>
 </p>
 
@@ -41,10 +43,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Saboo24">
+  <a href="https://github.com/mr-rusberry">
     <img src="https://komarev.com/ghpvc/?username=mr-rusberry&color=3a8296&label=Profile%20Views" />
   </a>
-  <a href="https://github.com/Saboo24">
+  <a href="https://github.com/mr-rusberry">
     <img src="https://img.shields.io/github/followers/mr-rusberry?label=GitHub%20Followers&color=3a8296&style=flat" />
   </a>
 </p>
