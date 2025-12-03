@@ -3,6 +3,7 @@
 </div>
 
 I'm mr Rusberry, a 1st-year Computer Science student and Back-end Developer
+<H2>💡`Skill grows, excuses don't.`</H2>
 
 ---
 ![df3kllr-32b45386-cb0b-4d18-8614-d9c5c534![Uploading ee21b6f99f0effacee7f97699144b5f3.gif…]()
