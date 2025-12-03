@@ -1,5 +1,5 @@
 <div align: center;>
-  <h1>Welcome👋</h1><br>
+  <h1>Welcome👋</h1>
   <p>to my github account</p>
 </div>
 
