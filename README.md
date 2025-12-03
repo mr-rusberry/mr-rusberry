@@ -3,26 +3,6 @@
 
 ---
 
-### 💻 My workspace eco-system 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,kali,vscode,github," />
-  </a>
-</p>
-
----
-
-### 🧠 SKills
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,postgres,html,css" />
-  </a>
-</p>
-
----
-
 ### 📬 Connect with Me  
 
 <p align="center">
@@ -51,5 +31,27 @@
     <img src="https://img.shields.io/github/followers/mr-rusberry?label=GitHub%20Followers&color=3a8296&style=flat" />
   </a>
 </p>
+
+---
+
+### 💻 My workspace eco-system 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=apple,kali,vscode,github," />
+  </a>
+</p>
+
+---
+
+### 🧠 SKills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,postgres,html,css" />
+  </a>
+</p>
+
+---
 
 ---
